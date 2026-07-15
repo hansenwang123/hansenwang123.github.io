@@ -9,9 +9,9 @@ redirect_from:
 
 Education
 ======
-* University of Illinois Urbana-Champaign, PhD, Sep 2026
-* Zhejiang University, Master, Sep 2022 - Jun 2026
-* China Agricultural University, Bachelor, Sep 2018 - Jun 2022
+* University of Illinois Urbana-Champaign, Ph.D., Sep 2026
+* Zhejiang University, M.S., Sep 2022 - Jun 2026
+* China Agricultural University, B.S., Sep 2018 - Jun 2022
 
 Research Experience
 ======

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing my PhD at the University of Illinois Urbana-Champaign, where I am advised by Prof. Haohan Wang. Prior to this, I earned my M.S. from Zhejiang University under the supervision of Prof. Xushen Xiong, and completed my B.S. at China Agricultural University.
+I am currently pursuing my Ph.D. at the University of Illinois Urbana-Champaign, where I am advised by Prof. [Haohan Wang](https://haohanwang.ischool.illinois.edu/). Prior to this, I earned my M.S. from Zhejiang University under the supervision of Prof. [Xushen Xiong](https://person.zju.edu.cn/en/xiongxs), and completed my B.S. at China Agricultural University.
 
 Research
 ======
@@ -15,9 +15,9 @@ I will use this section to describe my research interests, current work, and aca
 
 Education
 ======
-* University of Illinois Urbana-Champaign, PhD, Sep 2026
-* Zhejiang University, Master, Sep 2022 - Jun 2026
-* China Agricultural University, Bachelor, Sep 2018 - Jun 2022
+* University of Illinois Urbana-Champaign, Ph.D., Sep 2026
+* Zhejiang University, M.S., Sep 2022 - Jun 2026
+* China Agricultural University, B.S., Sep 2018 - Jun 2022
 
 Publications
 ======
