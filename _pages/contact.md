@@ -5,4 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-Contact information will be added here.
+Email
+======
+* [hansenwang2000@gmail.com](mailto:hansenwang2000@gmail.com)
+* [hw106@illinois.edu](mailto:hw106@illinois.edu)
