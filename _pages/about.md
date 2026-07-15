@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing my Ph.D. at the University of Illinois Urbana-Champaign, where I am advised by Prof. [Haohan Wang](https://haohanwang.ischool.illinois.edu/). Prior to this, I earned my M.S. from Zhejiang University under the supervision of Prof. [Xushen Xiong](https://person.zju.edu.cn/en/xiongxs), and completed my B.S. at China Agricultural University.
+I am currently pursuing my Ph.D. at the University of Illinois Urbana-Champaign (UIUC), where I am advised by Prof. [Haohan Wang](https://haohanwang.ischool.illinois.edu/). Prior to this, I earned my M.S. from Zhejiang University under the supervision of Prof. [Xushen Xiong](https://person.zju.edu.cn/en/xiongxs), and completed my B.S. at China Agricultural University.
 
 Research
 ======
