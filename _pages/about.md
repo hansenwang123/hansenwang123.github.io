@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome. I am Haochuan Wang.
-
-This website is built from the Academic Pages template and will serve as a home for my academic profile, publications, projects, and curriculum vitae.
+I am currently pursuing my PhD at the University of Illinois Urbana-Champaign, where I am advised by Prof. Haohan Wang. Prior to this, I earned my M.S. from Zhejiang University under the supervision of Prof. Xushen Xiong, and completed my B.S. at China Agricultural University.
 
 Research
 ======
