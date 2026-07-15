@@ -18,11 +18,3 @@ Education
 * University of Illinois Urbana-Champaign, Ph.D., Sep 2026
 * Zhejiang University, M.S., Sep 2022 - Jun 2026
 * China Agricultural University, B.S., Sep 2018 - Jun 2022
-
-Publications
-======
-Selected publications and preprints will be listed on the [Publications](/publications/) page.
-
-CV
-======
-My curriculum vitae will be maintained on the [CV](/cv/) page.
