@@ -11,7 +11,7 @@ I am currently pursuing my Ph.D. at the University of Illinois Urbana-Champaign,
 
 Research
 ======
-I will use this section to describe my research interests, current work, and academic background.
+I aim to harness multidisciplinary approaches that integrate high-throughput genomics, mechanistic modeling and experimental validation to elucidate the regulatory mechanisms underlying human diseases.
 
 Education
 ======
